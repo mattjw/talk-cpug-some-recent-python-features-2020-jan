@@ -1,4 +1,6 @@
-# What's new in Python (Jan 2020)
+# PUG: Recent and interesting features of Python (Jan 2020)
+
+Talk at Python User Group on 30 Jan 2020.
 
 Slides available on [Google Drive](https://docs.google.com/presentation/d/13O3DJCPsaf8xEANKX3t7Jn39OJPpit4V5OF-U2CPh_4/edit?usp=sharing)
 
@@ -16,6 +18,12 @@ Install pipenv:
 
 ```bash
 pip install pipenv
+```
+
+Pull dependencies:
+
+```bash
+pipenv sync
 ```
 
 ## Run Jupyter notebook
