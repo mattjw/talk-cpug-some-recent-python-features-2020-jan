@@ -36,6 +36,11 @@ pipenv run jupyter notebook --notebook-dir=./examples
 
 ```bash
 pipenv run python examples/10_debugging.py
+```
+
+Warning: The following can consume lots of memory, and may memory leak.
+
+```bash
 pipenv run python examples/15_sharedmem_duplication.py
 pipenv run python examples/15_sharedmem_shared.py
 ```
