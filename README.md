@@ -1,5 +1,7 @@
 # What's new in Python (Jan 2020)
 
+Slides available on [Google Drive](https://docs.google.com/presentation/d/13O3DJCPsaf8xEANKX3t7Jn39OJPpit4V5OF-U2CPh_4/edit?usp=sharing)
+
 ## Preqrequisites
 
 Install pyenv and Python 3.8 on Mac:
